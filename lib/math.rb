@@ -23,6 +23,6 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  product4 = sqrt(num)
+  product4 = Math.sqrt(num)
   return product4
 end
